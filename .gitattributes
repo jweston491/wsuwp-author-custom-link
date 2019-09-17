@@ -8,6 +8,6 @@ package.json export-ignore
 package-lock.json export-ignore
 phpcs.xml.dist export-ignore
 phpunit.xml.dist export-ignore
-gruntfile.js export-ingore
+Gruntfile.js export-ignore
 /bin export-ignore
 /tests export-ignore
