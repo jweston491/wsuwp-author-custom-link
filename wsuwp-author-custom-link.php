@@ -7,6 +7,8 @@
  * Author URI:      https://web.wsu.edu/wordpress/
  * Text Domain:     author-external-link
  * Version:         0.1.0
+ * License:         GPLv2 or later
+ * License URI:      https://www.gnu.org/licenses/gpl-2.0.html
  *
  * @package         Author_Custom_Link
  */
