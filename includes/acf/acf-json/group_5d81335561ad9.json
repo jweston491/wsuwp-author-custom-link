@@ -1,0 +1,40 @@
+{
+    "key": "group_5d81335561ad9",
+    "title": "Author External URL",
+    "fields": [
+        {
+            "key": "field_5d814edefa666",
+            "label": "Author URL",
+            "name": "external_author_url",
+            "type": "url",
+            "instructions": "Redirects Author page to provided URL.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "https:\/\/example.com"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "user_role",
+                "operator": "!=",
+                "value": "subscriber"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1568759206
+}
